@@ -1,4 +1,4 @@
-FROM node:18.12.1-slim
+FROM node:18.18.2-slim
 
 WORKDIR /code/src/examples/javascript
 ADD package.json /code/src/examples/javascript/package.json
