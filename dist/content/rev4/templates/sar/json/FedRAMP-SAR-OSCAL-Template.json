@@ -3,10 +3,10 @@
     "uuid": "7ea5c269-ee26-48c8-b32c-91aa26339023",
     "metadata": {
       "title": "[System Name] FedRAMP Security Assessment Results (SAR)",
-      "published": "2021-10-22T02:22:00.000-04:00",
-      "last-modified": "2021-10-22T02:22:00.000-04:00",
-      "version": "fedramp1.2.1-oscal1.0.0",
-      "oscal-version": "1.0.0",
+      "published": "2024-09-24T02:24:00Z",
+      "last-modified": "2024-09-24T02:24:00Z",
+      "version": "fedramp2.1.0-oscal1.0.4",
+      "oscal-version": "1.0.4",
       "props": [
         {
           "name": "marking",
@@ -1782,7 +1782,7 @@
       {
         "uuid": "cfa9b157-540e-456b-980d-efa789e50ace",
         "title": "2019 Annual Assessment",
-        "description": "",
+        "description": "...",
         "start": "2019-03-01T00:00:00Z",
         "end": "2019-03-12T00:00:00Z",
         "reviewed-controls": {
@@ -1803,7 +1803,7 @@
         "observations": [
           {
             "uuid": "EF3A436A-7445-41B7-A980-78E9BAB3B83A",
-            "description": "",
+            "description": "...",
             "methods": [
               "EXAMINE"
             ],
@@ -1814,7 +1814,7 @@
       {
         "uuid": "d755e7fd-346d-40f0-b538-1b1da1aa5821",
         "title": "Initial (2018) Assessment",
-        "description": "",
+        "description": "...",
         "start": "2018-03-01T00:00:00Z",
         "end": "2018-03-12T00:00:00Z",
         "reviewed-controls": {
@@ -1860,7 +1860,7 @@
           {
             "uuid": "A0A1395D-59CD-46D9-91A2-E6CA62AE9BAB",
             "title": "",
-            "description": "",
+            "description": "...",
             "target": {
               "type": "statement-id",
               "target-id": "ac-1_smt.a",
