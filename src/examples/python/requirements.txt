@@ -50,7 +50,7 @@ typing-extensions==4.10.0
     # via
     #   black
     #   mypy
-wheel==0.38.0
+wheel==0.38.1
     # via pip-tools
 
 # The following packages are considered to be unsafe in a requirements file:
