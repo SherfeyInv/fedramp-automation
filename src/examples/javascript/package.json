@@ -16,7 +16,5 @@
   },
   "homepage": "https://github.com/GSA/fedramp-automation#readme",
   "dependencies": {
-    "saxon-js": "^2.6.0",
-    "xslt3": "^2.7.0"
-  }
+ }
 }
